@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+Attribute VB_Name = "GrossUp"
 Function GrossUp(SalNetTarget As Double, Scutire As Double, Lim7prc As Double, _
         RataMed As Double, RataFS As Double, SalMediu As Double, FacilProg As Boolean)
     
